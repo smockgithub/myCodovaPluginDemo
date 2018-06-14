@@ -1,0 +1,19 @@
+{
+  "name": "PluginDemoId",
+  "version": "1.0.0",
+  "description": "test",
+  "cordova": {
+    "id": "PluginDemoId",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "smock",
+  "license": "ISC"
+}
